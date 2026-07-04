@@ -6,5 +6,7 @@ scikit-learn
 setuptools
 pymongo
 certifi
+dill
+pyaml
 
 ## -e .
